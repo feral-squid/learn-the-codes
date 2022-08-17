@@ -22,7 +22,7 @@ Correct:
 
 There is no need to sort in any kind of numerical or alphabetical order. Duplicates entries will not hurt anything. There is no restriction to the number of items in the list.
 
-The second tab is the Test Me page. A random product is displayed at the top, and your goal is to enter the SKU number for that product in column A below. The result of your entry will be displayed in column B, and the description at the top will update to another randomly selected produduct.
+The second tab is the Test Me page. A random product is displayed at the top, and your goal is to enter the SKU number for that product in column A below. The result of your entry will be displayed in column B, and the description at the top will update to another randomly selected product.
 
 Once you have filled the Test Me list with attempts, you may start over by deleting the SKUs. Important: DO NOT delete the product column, only the SKU column.
 
